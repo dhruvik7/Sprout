@@ -1,4 +1,4 @@
-# Sprout
+# Sprout - HackTech 2019
 
 ## Inspiration
 We're all passionate about sustainability and solving the food security crisis, so we wanted to work on something related to this at HackTech. When we thought about potential approaches and examined the technologies and products currently deployed, we noticed that they were all either directed towards industrial-scale farmers or experienced home-gardeners. We believe that bridging people with resources to create home gardens and learn about farming will drive the next revolution in agriculture. 
